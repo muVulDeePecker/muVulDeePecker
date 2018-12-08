@@ -1,0 +1,5 @@
+#define LOG_LINE_LENGTH 1024
+#define LOG_BUFFER_SIZE 4096
+#define VERSION "1.3"
+#define PATCHLEVEL "3"
+
